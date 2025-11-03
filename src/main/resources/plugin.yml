@@ -1,0 +1,11 @@
+name: MailBox
+version: 1.0
+main: org.drantiss.Main
+api-version: 1.21
+commands:
+  qq:
+    description: Show the tutorial
+    usage: /qq
+  bq:
+    description: Ban someone
+    usage: /bq ID

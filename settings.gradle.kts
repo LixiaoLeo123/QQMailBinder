@@ -1,0 +1,1 @@
+rootProject.name = "MailBox_1.0"
